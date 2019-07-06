@@ -23,5 +23,5 @@ Michael Finnegan, Saturday 6th July 2019
 
 Developed at Kerry ETB, Tralee. Ireland.
 
-
+![Barchart produced from website](https://github.com/nostradamus1566/world-countries-compared/blob/master/barchart.jpg)
 
