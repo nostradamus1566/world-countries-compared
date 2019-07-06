@@ -17,7 +17,6 @@ The data for the bar chart comes from the countries.csv file inside the data fol
 The data may be over 15 years old. This is 2019. The data originally came from the website gsociology.icaap.org/data/PD_useful.xls.
 The bar chart is interactive in the sense that if you select a different country or a different radio button you see the bar chart change immediately. Some JavaScript is used to achieve this interactivity.
 
-I got some help from the internet. In particular I copied and modified some JavaScript code written by Curran Kelleher from the website at https://bl.ocks.org/curran/fea34ca9b3b8886e3ab8 in order to render the 8 coloured bars and have the titles at the bottom of chart at a slanted angle near each bar.
 
 Michael Finnegan, Saturday 6th July 2019
 
