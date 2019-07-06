@@ -1,5 +1,5 @@
 # world countries compared
-##Data visualisation website project, comparing country statistics to each other on an interactive bar chart
+## Data visualisation website project, comparing country statistics to each other on an interactive bar chart
 
 Interactive Frontend development Milestone Project
 
