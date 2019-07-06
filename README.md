@@ -20,6 +20,7 @@ The bar chart is interactive in the sense that if you select a different country
 I got some help from the internet. In particular I copied and modified some JavaScript code written by Curran Kelleher from the website at https://bl.ocks.org/curran/fea34ca9b3b8886e3ab8 in order to render the 8 coloured bars and have the titles at the bottom of chart at a slanted angle near each bar.
 
 Michael Finnegan, Saturday 6th July 2019
+
 Developed at Kerry ETB, Tralee. Ireland.
 
 
